@@ -51,5 +51,6 @@ mvn exec:java -Dexec.mainClass="dev.lucaslowhan.desafio.Main"
 ```
 
 ## 👨‍💻 Autor
-#### Lucas Lowhan
+#### Lucas Lowhan 
+##### Software Enginner
 [LinkedIn](https://www.linkedin.com/in/lucaslowhan/) - [GitHub](https://github.com/lucaslowhan)
